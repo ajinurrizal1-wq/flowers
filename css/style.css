@@ -1,6 +1,12 @@
 /* fonts */
 
 /* style utama */
+body {
+  background: url(../img/photo-1532274402911-5a369e4c4bb5.avif) no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
 
 h1 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -203,4 +209,5 @@ a .close {
     margin-top: 0;
   }
 }
+
 
